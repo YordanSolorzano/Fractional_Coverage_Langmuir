@@ -48,5 +48,5 @@ This repository includes:
 - **README Documentation**: Explaining theoretical background, implementation details, and research insights.
 
 ## References
-Relevant references and citations are included throughout the research and in the repository documentation to provide comprehensive theoretical and experimental backing for the findings presented here.
+
 
